@@ -1,0 +1,11 @@
+{
+    "produtos": [
+    {
+        "img": "../../assets/shopping.webp",
+        "nome": "Pão Artesano",
+        "valor": 19,
+        "descricao": "O pão para sua vida",
+        "id": 1
+    }
+]
+}
